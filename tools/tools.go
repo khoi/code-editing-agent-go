@@ -34,5 +34,6 @@ func GetTools() []ToolDefinition {
 		ListFilesDefinition,
 		ReadFileDefinition,
 		EditFileDefinition,
+		ExecuteShellDefinition,
 	}
 }
